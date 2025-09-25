@@ -8,10 +8,10 @@
     "test:run": "vitest run"
   },
   "devDependencies": {
-    "@vitest/browser": "^3.2.4",
+    "@vitest/browser": "^4.0.0-beta.10",
     "jsdom": "^24.0.0",
     "msw": "^2.11.2",
     "playwright": "^1.55.0",
-    "vitest": "^3.2.4"
+    "vitest": "^4.0.0-beta.10"
   }
 }
